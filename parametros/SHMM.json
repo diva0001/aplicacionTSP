@@ -4,7 +4,7 @@
     "Tamaño de la población": 10,
     "α": 1,
     "β": 2,
-    "Actualización de feromona": 0.1,
+    "Actualización global de feromona": 0.1,
     "Pbest": 0.05,
     "Porcentaje de reducción de iteraciones": 0.005,
     "Porcentaje de iteraciones inicial para usar mejor global": 0.08,
@@ -12,5 +12,5 @@
     "Número de iteraciones para comprobar la convergecia": 100,
     "Factor de convergencia": 0.05,
     "Coeficiente de suavizado de feromona": 0.5,
-    "Hormiga que aporta feromona": "Mejor global"
+    "Hormiga que aporta feromona": "mejor global"
 }

@@ -10,5 +10,5 @@
     "Feromona inicial": 100,
     "Porcentaje de reducción de iteraciones": 0.005,
     "Porcentaje de iteraciones inicial para usar mejor global": 0.08,
-    "Hormiga que aporta feromona": "Mejor global"
+    "Hormiga que aporta feromona": "mejor global"
 }
